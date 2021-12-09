@@ -31,7 +31,7 @@ header {
 }
 
 .main .image {
-    background-image: url(./senac.jpg);
+    background-image: url(../img/senac.jpg);
     background-size: cover;
     background-color: #FFF;
     filter: blur(8px);
